@@ -1,0 +1,33 @@
+{
+    "1": {
+        "employeeId": 1,
+        "employeeName": "jothi",
+        "employeeEmail": "jothi@gmail.com",
+        "credentialId": 1,
+        "employeeType": "Admin"
+    },
+    "2": {
+        "employeeId": 2,
+        "employeeName": "naga",
+        "employeeEmail": "naga@prav.com",
+        "employeePhone": "9876543210",
+        "credentialId": 2,
+        "employeeType": "Receptionist"
+    },
+    "3": {
+        "employeeId": 3,
+        "employeeName": "ameen",
+        "employeeEmail": "ameen@prav.com",
+        "employeePhone": "7654321890",
+        "credentialId": 3,
+        "employeeType": "HR"
+    },
+    "4": {
+        "employeeId": 4,
+        "employeeName": "hari",
+        "employeeEmail": "hari@prav.com",
+        "employeePhone": "8765432190",
+        "credentialId": 4,
+        "employeeType": "Receptionist"
+    }
+}

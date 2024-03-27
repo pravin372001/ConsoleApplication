@@ -1,0 +1,62 @@
+    [
+        {
+            "bookName": "jo",
+            "bookId": 1,
+            "author": "jo",
+            "publication": "jo",
+            "edition": "jo",
+            "genre": "jo",
+            "availableCount": 10,
+            "volume": 1
+        },
+        {
+            "bookName": "jai",
+            "bookId": 2,
+            "author": "jai",
+            "publication": "jai",
+            "edition": "jai",
+            "genre": "jai",
+            "availableCount": 100,
+            "volume": 1
+        },
+        {
+            "bookName": "rich dad poor dad",
+            "bookId": 4,
+            "author": "jothi",
+            "publication": "pravin",
+            "edition": "1st",
+            "genre": "motivation",
+            "availableCount": 10,
+            "volume": 1
+        },
+        {
+            "bookName": "kk",
+            "bookId": 3,
+            "author": "jj",
+            "publication": "jj",
+            "edition": "jj",
+            "genre": "jj",
+            "availableCount": 11,
+            "volume": 2
+        },
+        {
+            "bookName": "pravin life style",
+            "bookId": 5,
+            "author": "pravin",
+            "publication": "jai",
+            "edition": "12th",
+            "genre": "motivation",
+            "availableCount": 100,
+            "volume": 1
+        },
+        {
+            "bookName": "w",
+            "bookId": 6,
+            "author": "w",
+            "publication": "w",
+            "edition": "w",
+            "genre": "w",
+            "availableCount": 10,
+            "volume": 1
+        }
+    ]
